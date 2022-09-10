@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[setting Done]]>
+    </line>
+    <line>
+      <![CDATA[setting Done]]>
+    </line>
+    <line>
+      <![CDATA[setting Done]]>
+    </line>
+    <line>
+      <![CDATA[setting Done]]>
+    </line>
+    <line>
+      <![CDATA[setting Done]]>
+    </line>
+    <line>
+      <![CDATA[setting Done]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-10T21:30:16 IST" name="LamdatestAuto" finished-at="2022-09-10T21:32:20 IST" duration-ms="123925">
+    <groups>
+    </groups>
+    <test started-at="2022-09-10T21:30:16 IST" name="Firefox Test" finished-at="2022-09-10T21:31:57 IST" duration-ms="101148">
+      <class name="Test.Form">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.Form@293a5bf6]" started-at="2022-09-10T21:31:10 IST" name="setUp" finished-at="2022-09-10T21:31:19 IST" duration-ms="8856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[102.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[setting Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FormTest()[pri:0, instance:Test.Form@293a5bf6]" started-at="2022-09-10T21:31:19 IST" name="FormTest" finished-at="2022-09-10T21:31:54 IST" duration-ms="35513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.Form@293a5bf6]" started-at="2022-09-10T21:31:54 IST" name="tearDown" finished-at="2022-09-10T21:31:57 IST" duration-ms="2688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.Form -->
+      <class name="Test.Slider">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.Slider@42a48628]" started-at="2022-09-10T21:30:38 IST" name="setUp" finished-at="2022-09-10T21:30:57 IST" duration-ms="19104" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[102.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[setting Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SliderbarTest()[pri:0, instance:Test.Slider@42a48628]" started-at="2022-09-10T21:30:57 IST" name="SliderbarTest" finished-at="2022-09-10T21:31:09 IST" duration-ms="11873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SliderbarTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.Slider@42a48628]" started-at="2022-09-10T21:31:09 IST" name="tearDown" finished-at="2022-09-10T21:31:10 IST" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.Slider -->
+      <class name="Test.MessageVerify">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.MessageVerify@130d63be]" started-at="2022-09-10T21:30:16 IST" name="setUp" finished-at="2022-09-10T21:30:28 IST" duration-ms="11858" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[102.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[setting Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:Test.MessageVerify@130d63be]" started-at="2022-09-10T21:30:28 IST" name="test1" finished-at="2022-09-10T21:30:37 IST" duration-ms="9098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.MessageVerify@130d63be]" started-at="2022-09-10T21:30:37 IST" name="tearDown" finished-at="2022-09-10T21:30:38 IST" duration-ms="829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.MessageVerify -->
+    </test> <!-- Firefox Test -->
+    <test started-at="2022-09-10T21:30:16 IST" name="Chrome Test" finished-at="2022-09-10T21:32:20 IST" duration-ms="123925">
+      <class name="Test.Form">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.Form@52bf72b5]" started-at="2022-09-10T21:31:13 IST" name="setUp" finished-at="2022-09-10T21:31:38 IST" duration-ms="25785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[79.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[setting Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FormTest()[pri:0, instance:Test.Form@52bf72b5]" started-at="2022-09-10T21:31:38 IST" name="FormTest" finished-at="2022-09-10T21:32:19 IST" duration-ms="40855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.Form@52bf72b5]" started-at="2022-09-10T21:32:19 IST" name="tearDown" finished-at="2022-09-10T21:32:20 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.Form -->
+      <class name="Test.Slider">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.Slider@6d763516]" started-at="2022-09-10T21:30:46 IST" name="setUp" finished-at="2022-09-10T21:31:04 IST" duration-ms="17936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[79.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[setting Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SliderbarTest()[pri:0, instance:Test.Slider@6d763516]" started-at="2022-09-10T21:31:04 IST" name="SliderbarTest" finished-at="2022-09-10T21:31:12 IST" duration-ms="8457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SliderbarTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.Slider@6d763516]" started-at="2022-09-10T21:31:12 IST" name="tearDown" finished-at="2022-09-10T21:31:13 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.Slider -->
+      <class name="Test.MessageVerify">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Test.MessageVerify@12468a38]" started-at="2022-09-10T21:30:16 IST" name="setUp" finished-at="2022-09-10T21:30:33 IST" duration-ms="17646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[79.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[setting Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:Test.MessageVerify@12468a38]" started-at="2022-09-10T21:30:33 IST" name="test1" finished-at="2022-09-10T21:30:45 IST" duration-ms="11917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.MessageVerify@12468a38]" started-at="2022-09-10T21:30:45 IST" name="tearDown" finished-at="2022-09-10T21:30:46 IST" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.MessageVerify -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- LamdatestAuto -->
+</testng-results>

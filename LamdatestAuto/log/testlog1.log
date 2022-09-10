@@ -1,0 +1,14 @@
+2022-09-10 21:30:28,764 [TestNG-tests-2] INFO Base - Running Test1
+2022-09-10 21:30:33,876 [TestNG-tests-2] INFO Base - test 1 successfully completed
+2022-09-10 21:30:35,238 [TestNG-tests-1] INFO Base - Running Test1
+2022-09-10 21:30:42,989 [TestNG-tests-1] INFO Base - test 1 successfully completed
+2022-09-10 21:31:01,401 [TestNG-tests-2] INFO Base - Slider test is Started
+2022-09-10 21:31:06,352 [TestNG-tests-2] INFO Base - Slider test is completed
+2022-09-10 21:31:08,219 [TestNG-tests-1] INFO Base - Slider test is Started
+2022-09-10 21:31:11,391 [TestNG-tests-1] INFO Base - Slider test is completed
+2022-09-10 21:31:19,254 [TestNG-tests-2] INFO Base - Form test is Started
+2022-09-10 21:31:38,963 [TestNG-tests-1] INFO Base - Form test is Started
+2022-09-10 21:31:47,233 [TestNG-tests-2] INFO Base - Successfully enterd the creadentials
+2022-09-10 21:31:51,824 [TestNG-tests-2] INFO Base - Form submitted
+2022-09-10 21:32:12,494 [TestNG-tests-1] INFO Base - Successfully enterd the creadentials
+2022-09-10 21:32:16,582 [TestNG-tests-1] INFO Base - Form submitted
